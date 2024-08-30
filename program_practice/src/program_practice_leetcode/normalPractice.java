@@ -19,7 +19,6 @@ public class normalPractice {
 		char[] c=str.toCharArray();
 		int start = 0;
 		int end = c.length-1;
-//		char temp=' ';
 		
 		while(start<end)
 		{
